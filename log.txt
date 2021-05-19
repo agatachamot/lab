@@ -1,0 +1,11 @@
+commit 79d4cd982114cc8e0ecb18204db837c78a49fa07
+Author: agata.chamot@gmail.com <agata.chamot@gmail.com>
+Date:   Thu May 20 00:28:09 2021 +0200
+
+    git ignore
+
+commit 64282e6e4458f3d478e39f33d75181358ae73238
+Author: agata.chamot@gmail.com <agata.chamot@gmail.com>
+Date:   Thu May 20 00:23:55 2021 +0200
+
+    ciuchcia
